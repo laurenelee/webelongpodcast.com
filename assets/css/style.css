@@ -29,10 +29,10 @@ Table of contents:
 
 /* 0. Variables */
 :root {
-	--primary-color: #fa4aab;
+	--primary-color: #f5817c;
 	--primary-alt-color: #ffffff;
 	--secondary-color: #278790; /*#331500;*/
-	--link-color:  #f885c1;
+	--link-color:  #eea467;
 	--border-color: #192b2b; /*#2d231a;*/
 	--body-background-color: #171e2e; /*#170e09;*/
 	--body-text-color: #ffffff;
